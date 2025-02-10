@@ -24,3 +24,4 @@ D:\workspace\DotNet\eshop-dotnet\MyWebApp\obj\Debug\net8.0\refint\MyWebApp.dll
 D:\workspace\DotNet\eshop-dotnet\MyWebApp\obj\Debug\net8.0\MyWebApp.pdb
 D:\workspace\DotNet\eshop-dotnet\MyWebApp\obj\Debug\net8.0\MyWebApp.genruntimeconfig.cache
 D:\workspace\DotNet\eshop-dotnet\MyWebApp\obj\Debug\net8.0\ref\MyWebApp.dll
+D:\workspace\DotNet\eshop-dotnet\MyWebApp\obj\Debug\net8.0\MyWebApp.csproj.AssemblyReference.cache
