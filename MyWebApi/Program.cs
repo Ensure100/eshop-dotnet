@@ -22,7 +22,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseAuthorization();
-app.UseHttpsRedirection();
+// app.UseHttpsRedirection();
 
 var summaries = new[]
 {
